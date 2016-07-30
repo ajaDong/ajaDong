@@ -1,0 +1,11 @@
+# 1 ---- Estbalish a custon 404 File not Found Page ----
+
+ErrorDocument 404 /filenotfound.php
+
+# 2 ---- Prevent directory file listing in all of your folders
+
+IndexIgnore *
+
+# 3 ---- Make pages render without their extension
+
+Options +MultiViews

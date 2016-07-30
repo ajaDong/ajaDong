@@ -1,0 +1,461 @@
+[08-Feb-2016 06:32:09 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 197
+[08-Feb-2016 06:55:20 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[08-Feb-2016 06:56:27 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[08-Feb-2016 07:27:21 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/tutor.php on line 4
+[08-Feb-2016 07:27:21 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[08-Feb-2016 07:27:21 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[08-Feb-2016 07:27:21 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[08-Feb-2016 07:27:21 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[08-Feb-2016 07:27:35 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[08-Feb-2016 07:27:43 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[08-Feb-2016 07:31:10 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[08-Feb-2016 07:34:04 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 6
+[08-Feb-2016 07:34:04 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[08-Feb-2016 07:34:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[08-Feb-2016 07:34:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[08-Feb-2016 07:34:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[08-Feb-2016 07:34:04 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[08-Feb-2016 07:34:16 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[08-Feb-2016 07:46:30 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/tutor.php on line 4
+[08-Feb-2016 07:46:30 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[08-Feb-2016 07:46:30 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[08-Feb-2016 07:46:30 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[08-Feb-2016 07:46:30 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[08-Feb-2016 07:47:16 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/awstec13/public_html/AjarinDong/admin/sociallink.php on line 75
+[08-Feb-2016 08:09:23 Etc/GMT] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/awstec13/public_html/AjarinDong/admin/logo.php on line 106
+[08-Feb-2016 08:15:43 Etc/GMT] PHP Notice:  Undefined property: stdClass::$idhome in /home/awstec13/public_html/AjarinDong/admin/logo.php on line 115
+[08-Feb-2016 08:16:13 Etc/GMT] PHP Notice:  Use of undefined constant AjarinDongBroLogo - assumed 'AjarinDongBroLogo' in /home/awstec13/public_html/AjarinDong/admin/editlogo.php on line 19
+[08-Feb-2016 08:16:13 Etc/GMT] PHP Notice:  Use of undefined constant png - assumed 'png' in /home/awstec13/public_html/AjarinDong/admin/editlogo.php on line 19
+[08-Feb-2016 08:16:13 Etc/GMT] PHP Warning:  unlink(images/14449710252308.png): No such file or directory in /home/awstec13/public_html/AjarinDong/admin/editlogo.php on line 31
+[08-Feb-2016 08:17:11 Etc/GMT] PHP Notice:  Undefined property: stdClass::$idhome in /home/awstec13/public_html/AjarinDong/admin/logo.php on line 115
+[08-Feb-2016 08:20:06 Etc/GMT] PHP Notice:  Use of undefined constant AjarinDongBroLogo - assumed 'AjarinDongBroLogo' in /home/awstec13/public_html/AjarinDong/admin/editlogo.php on line 19
+[08-Feb-2016 08:21:46 Etc/GMT] PHP Notice:  Use of undefined constant AjarinDongBroLogo - assumed 'AjarinDongBroLogo' in /home/awstec13/public_html/AjarinDong/admin/editlogo.php on line 20
+[08-Feb-2016 08:22:39 Etc/GMT] PHP Notice:  Undefined property: stdClass::$idhome in /home/awstec13/public_html/AjarinDong/admin/logo.php on line 115
+[08-Feb-2016 08:23:48 Etc/GMT] PHP Notice:  Undefined property: stdClass::$idhome in /home/awstec13/public_html/AjarinDong/admin/logo.php on line 115
+[08-Feb-2016 09:57:19 Etc/GMT] PHP Notice:  Undefined property: stdClass::$idhome in /home/awstec13/public_html/AjarinDong/admin/logo.php on line 115
+[08-Feb-2016 13:02:32 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/tutor.php on line 4
+[08-Feb-2016 13:02:32 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[08-Feb-2016 13:02:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[08-Feb-2016 13:02:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[08-Feb-2016 13:02:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[09-Feb-2016 05:02:07 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[09-Feb-2016 05:02:07 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[09-Feb-2016 05:02:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[09-Feb-2016 05:02:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[09-Feb-2016 05:02:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[09-Feb-2016 10:40:24 Etc/GMT] PHP Notice:  Undefined index: image in /home/awstec13/public_html/AjarinDong/admin/addsubject.php on line 11
+[09-Feb-2016 10:42:31 Etc/GMT] PHP Notice:  Undefined index: Image in /home/awstec13/public_html/AjarinDong/admin/addsubject.php on line 11
+[10-Feb-2016 11:07:10 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[10-Feb-2016 11:07:10 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[10-Feb-2016 11:07:10 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[10-Feb-2016 11:07:10 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[10-Feb-2016 11:07:10 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[10-Feb-2016 12:47:47 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[10-Feb-2016 12:47:47 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[10-Feb-2016 12:47:47 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[10-Feb-2016 12:47:47 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[10-Feb-2016 12:47:47 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[10-Feb-2016 13:01:28 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[10-Feb-2016 13:01:28 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[10-Feb-2016 13:01:28 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[10-Feb-2016 13:01:28 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[10-Feb-2016 13:01:28 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[10-Feb-2016 13:26:13 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[10-Feb-2016 13:26:13 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[10-Feb-2016 13:26:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[10-Feb-2016 13:26:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[10-Feb-2016 13:26:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[12-Feb-2016 06:31:02 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[12-Feb-2016 06:31:02 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[12-Feb-2016 06:31:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[12-Feb-2016 06:31:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[12-Feb-2016 06:31:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[12-Feb-2016 09:57:53 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/tutor.php on line 4
+[12-Feb-2016 09:57:53 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[12-Feb-2016 09:57:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[12-Feb-2016 09:57:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[12-Feb-2016 09:57:53 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[12-Feb-2016 10:28:16 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[12-Feb-2016 10:28:16 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[12-Feb-2016 10:28:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[12-Feb-2016 10:28:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[12-Feb-2016 10:28:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[12-Feb-2016 10:28:17 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[12-Feb-2016 10:28:17 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[12-Feb-2016 10:28:17 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[12-Feb-2016 10:28:17 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[12-Feb-2016 10:28:17 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[12-Feb-2016 10:39:33 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[12-Feb-2016 10:47:34 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 6
+[12-Feb-2016 10:47:34 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[12-Feb-2016 10:47:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[12-Feb-2016 10:47:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[12-Feb-2016 10:47:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[12-Feb-2016 10:47:34 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[12-Feb-2016 10:47:52 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[12-Feb-2016 10:49:39 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[12-Feb-2016 10:57:04 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[13-Feb-2016 09:52:46 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[13-Feb-2016 09:52:46 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[13-Feb-2016 09:52:46 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[13-Feb-2016 09:52:46 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[13-Feb-2016 09:52:46 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[13-Feb-2016 09:53:11 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[13-Feb-2016 09:58:22 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[13-Feb-2016 09:58:22 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[13-Feb-2016 09:58:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[13-Feb-2016 09:58:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[13-Feb-2016 09:58:22 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[13-Feb-2016 09:58:50 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[15-Feb-2016 05:18:02 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[15-Feb-2016 05:18:02 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[15-Feb-2016 05:18:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[15-Feb-2016 05:18:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[15-Feb-2016 05:18:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[15-Feb-2016 05:41:03 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/tutor.php on line 4
+[15-Feb-2016 05:41:03 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[15-Feb-2016 05:41:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[15-Feb-2016 05:41:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[15-Feb-2016 05:41:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[15-Feb-2016 06:14:19 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[15-Feb-2016 06:14:19 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[15-Feb-2016 06:14:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[15-Feb-2016 06:14:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[15-Feb-2016 06:14:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[15-Feb-2016 06:36:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 96
+[15-Feb-2016 06:36:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 104
+[15-Feb-2016 06:36:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 109
+[15-Feb-2016 06:36:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 114
+[15-Feb-2016 06:36:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 119
+[15-Feb-2016 06:36:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 123
+[15-Feb-2016 06:36:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 128
+[15-Feb-2016 06:36:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 133
+[15-Feb-2016 06:36:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[15-Feb-2016 08:07:17 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/awstec13/public_html/AjarinDong/admin/choosetutor.php on line 8
+[15-Feb-2016 08:07:20 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/awstec13/public_html/AjarinDong/admin/choosetutor.php on line 8
+[15-Feb-2016 08:07:23 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/awstec13/public_html/AjarinDong/admin/choosetutor.php on line 8
+[15-Feb-2016 08:07:31 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/awstec13/public_html/AjarinDong/admin/choosetutor.php on line 8
+[15-Feb-2016 08:07:34 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/awstec13/public_html/AjarinDong/admin/choosetutor.php on line 8
+[15-Feb-2016 08:07:37 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/awstec13/public_html/AjarinDong/admin/choosetutor.php on line 8
+[15-Feb-2016 08:13:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 192
+[15-Feb-2016 08:13:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 192
+[15-Feb-2016 08:14:11 Etc/GMT] PHP Notice:  Undefined index: cat in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 178
+[15-Feb-2016 08:17:06 Etc/GMT] PHP Notice:  Undefined variable: userRes in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:17:06 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:17:06 Etc/GMT] PHP Notice:  Undefined variable: userRes in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:17:06 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:17:06 Etc/GMT] PHP Notice:  Undefined variable: userRes in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:17:06 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:17:16 Etc/GMT] PHP Notice:  Undefined variable: userRes in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:17:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:17:16 Etc/GMT] PHP Notice:  Undefined variable: userRes in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:17:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:17:16 Etc/GMT] PHP Notice:  Undefined variable: userRes in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:17:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:18:18 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:18:18 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:18:18 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 183
+[15-Feb-2016 08:22:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 181
+[15-Feb-2016 08:22:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 181
+[15-Feb-2016 08:22:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 181
+[15-Feb-2016 08:22:42 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 181
+[15-Feb-2016 08:22:42 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 181
+[15-Feb-2016 08:22:42 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 181
+[15-Feb-2016 09:22:42 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 180
+[15-Feb-2016 09:22:42 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 180
+[15-Feb-2016 09:22:42 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 180
+[15-Feb-2016 09:23:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 180
+[15-Feb-2016 09:23:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 180
+[15-Feb-2016 09:23:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 180
+[15-Feb-2016 09:23:57 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 180
+[15-Feb-2016 09:23:57 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 180
+[15-Feb-2016 09:23:57 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 180
+[15-Feb-2016 10:16:00 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/student.php on line 4
+[15-Feb-2016 10:16:00 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[15-Feb-2016 10:16:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[15-Feb-2016 10:16:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[15-Feb-2016 10:16:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[15-Feb-2016 11:26:41 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[15-Feb-2016 11:26:41 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[15-Feb-2016 11:26:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[15-Feb-2016 11:26:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[15-Feb-2016 11:26:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[15-Feb-2016 12:17:32 Etc/GMT] PHP Notice:  Undefined property: stdClass::$universityName in /home/awstec13/public_html/AjarinDong/admin/approvedsubject.php on line 180
+[15-Feb-2016 12:27:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 96
+[15-Feb-2016 12:27:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 104
+[15-Feb-2016 12:27:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 109
+[15-Feb-2016 12:27:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 114
+[15-Feb-2016 12:27:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 119
+[15-Feb-2016 12:27:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 123
+[15-Feb-2016 12:27:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 128
+[15-Feb-2016 12:27:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 133
+[15-Feb-2016 12:27:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[15-Feb-2016 12:27:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 96
+[15-Feb-2016 12:27:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 104
+[15-Feb-2016 12:27:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 109
+[15-Feb-2016 12:27:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 114
+[15-Feb-2016 12:27:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 119
+[15-Feb-2016 12:27:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 123
+[15-Feb-2016 12:27:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 128
+[15-Feb-2016 12:27:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 133
+[15-Feb-2016 12:27:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 138
+[15-Feb-2016 12:29:24 Etc/GMT] PHP Notice:  Undefined property: stdClass::$subjectName in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 124
+[15-Feb-2016 12:29:24 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 134
+[15-Feb-2016 12:29:59 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 134
+[15-Feb-2016 13:13:03 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/coursevideo.php on line 4
+[15-Feb-2016 13:13:03 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[15-Feb-2016 13:13:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[15-Feb-2016 13:13:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[15-Feb-2016 13:13:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[16-Feb-2016 07:34:29 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[16-Feb-2016 07:34:29 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[16-Feb-2016 07:34:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[16-Feb-2016 07:34:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[16-Feb-2016 07:34:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[16-Feb-2016 07:50:58 Etc/GMT] PHP Notice:  Undefined index: adminUName in /home/awstec13/public_html/AjarinDong/admin/deleteuniversity.php on line 3
+[16-Feb-2016 10:07:39 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/university.php on line 7
+[16-Feb-2016 10:07:39 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[16-Feb-2016 10:07:39 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[16-Feb-2016 10:07:39 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[16-Feb-2016 10:07:39 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[19-Feb-2016 08:13:02 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 134
+[19-Feb-2016 08:13:54 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/subject.php on line 7
+[19-Feb-2016 08:13:54 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[19-Feb-2016 08:13:54 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[19-Feb-2016 08:13:54 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[19-Feb-2016 08:13:54 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[19-Feb-2016 08:16:35 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/student.php on line 4
+[19-Feb-2016 08:16:35 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[19-Feb-2016 08:16:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[19-Feb-2016 08:16:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[19-Feb-2016 08:16:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[19-Feb-2016 08:29:57 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 134
+[19-Feb-2016 08:32:14 Etc/GMT] PHP Notice:  Undefined property: stdClass::$userRegDate in /home/awstec13/public_html/AjarinDong/admin/viewtutor.php on line 134
+[28-Feb-2016 10:58:01 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/editsubject.php on line 4
+[28-Feb-2016 10:58:01 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[28-Feb-2016 10:58:01 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[28-Feb-2016 10:58:01 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[28-Feb-2016 10:58:01 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[02-Mar-2016 05:54:02 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[02-Mar-2016 05:54:02 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[02-Mar-2016 05:54:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[02-Mar-2016 05:54:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[02-Mar-2016 05:54:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[02-Mar-2016 07:00:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 4
+[02-Mar-2016 07:00:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 4
+[02-Mar-2016 07:01:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 4
+[02-Mar-2016 07:02:35 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 4
+[02-Mar-2016 07:02:35 Etc/GMT] PHP Notice:  Undefined index: universityId in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 19
+[02-Mar-2016 07:02:35 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[02-Mar-2016 07:02:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[02-Mar-2016 07:02:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[02-Mar-2016 07:02:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[02-Mar-2016 07:02:58 Etc/GMT] PHP Notice:  Undefined index: universityId in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 19
+[02-Mar-2016 07:03:36 Etc/GMT] PHP Notice:  Undefined index: percentAmount in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 28
+[02-Mar-2016 07:03:36 Etc/GMT] PHP Notice:  Undefined variable: headers2 in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 30
+[02-Mar-2016 07:03:36 Etc/GMT] PHP Notice:  Undefined index: percentAmount in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 28
+[02-Mar-2016 07:05:06 Etc/GMT] PHP Notice:  Undefined index: universityId in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 19
+[02-Mar-2016 07:05:11 Etc/GMT] PHP Notice:  Undefined index: universityId in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 19
+[02-Mar-2016 07:05:13 Etc/GMT] PHP Notice:  Undefined index: universityId in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 19
+[02-Mar-2016 07:05:14 Etc/GMT] PHP Notice:  Undefined index: universityId in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 19
+[02-Mar-2016 07:05:15 Etc/GMT] PHP Notice:  Undefined index: universityId in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 19
+[02-Mar-2016 07:05:16 Etc/GMT] PHP Notice:  Undefined index: universityId in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 19
+[02-Mar-2016 07:05:17 Etc/GMT] PHP Notice:  Undefined index: universityId in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 19
+[02-Mar-2016 07:05:18 Etc/GMT] PHP Notice:  Undefined index: universityId in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 19
+[02-Mar-2016 07:05:19 Etc/GMT] PHP Notice:  Undefined index: universityId in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 19
+[02-Mar-2016 07:21:49 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/index.php on line 5
+[02-Mar-2016 07:21:49 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[02-Mar-2016 07:21:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[02-Mar-2016 07:21:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[02-Mar-2016 07:21:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[02-Mar-2016 07:24:43 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 4
+[02-Mar-2016 07:24:43 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[02-Mar-2016 07:24:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[02-Mar-2016 07:24:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[02-Mar-2016 07:24:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[02-Mar-2016 07:24:44 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 4
+[02-Mar-2016 07:24:44 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[02-Mar-2016 07:24:44 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[02-Mar-2016 07:24:44 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[02-Mar-2016 07:24:44 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[02-Mar-2016 07:25:05 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 4
+[02-Mar-2016 07:25:05 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[02-Mar-2016 07:25:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[02-Mar-2016 07:25:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[02-Mar-2016 07:25:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[02-Mar-2016 08:14:48 Etc/GMT] PHP Notice:  Undefined variable: fromname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 32
+[02-Mar-2016 08:14:48 Etc/GMT] PHP Notice:  Undefined variable: fromname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 32
+[02-Mar-2016 09:41:34 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 7
+[02-Mar-2016 09:41:34 Etc/GMT] PHP Notice:  Undefined index: uname in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 10
+[02-Mar-2016 09:41:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/header.php on line 126
+[02-Mar-2016 09:41:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 13
+[02-Mar-2016 09:41:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/admin/includes/left.php on line 19
+[02-Mar-2016 09:44:51 Etc/GMT] PHP Notice:  Undefined variable: fromname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 33
+[02-Mar-2016 09:44:51 Etc/GMT] PHP Notice:  Undefined variable: fromname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 33
+[02-Mar-2016 09:46:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 37
+[02-Mar-2016 09:46:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 37
+[02-Mar-2016 09:47:03 Etc/GMT] PHP Notice:  Undefined variable: fromname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 33
+[02-Mar-2016 09:47:03 Etc/GMT] PHP Notice:  Undefined variable: fromname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 33
+[02-Mar-2016 09:48:29 Etc/GMT] PHP Notice:  Undefined variable: fromname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 33
+[02-Mar-2016 09:48:29 Etc/GMT] PHP Notice:  Undefined variable: fromname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 33
+[02-Mar-2016 09:58:37 Etc/GMT] PHP Notice:  Undefined variable: fromname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 33
+[02-Mar-2016 09:58:37 Etc/GMT] PHP Notice:  Undefined variable: fromname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 33
+[02-Mar-2016 10:00:57 Etc/GMT] PHP Notice:  Undefined variable: fromname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 33
+[02-Mar-2016 10:00:57 Etc/GMT] PHP Notice:  Undefined variable: fromname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 33
+[02-Mar-2016 10:08:00 Etc/GMT] PHP Notice:  Undefined variable: fromname in /home/awstec13/public_html/AjarinDong/admin/addCourseCoupon.php on line 31
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 142
+[02-Mar-2016 10:16:30 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 145
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 135
+[02-Mar-2016 10:18:31 Etc/GMT] PHP Notice:  Undefined property: stdClass::$tutorId in /home/awstec13/public_html/AjarinDong/admin/coursecoupon.php on line 138

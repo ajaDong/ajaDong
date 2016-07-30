@@ -1,0 +1,320 @@
+[29-Feb-2016 13:21:07 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/headerindex.php on line 29
+[29-Feb-2016 13:21:07 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[29-Feb-2016 13:21:07 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[29-Feb-2016 13:21:07 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[29-Feb-2016 13:21:07 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[29-Feb-2016 13:21:07 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[29-Feb-2016 13:21:07 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[29-Feb-2016 13:21:07 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[29-Feb-2016 13:21:07 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[29-Feb-2016 13:21:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/awstec13/public_html/AjarinDong/newauctionC.php on line 190
+[29-Feb-2016 13:21:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/awstec13/public_html/AjarinDong/newauctionC.php on line 190
+[01-Mar-2016 12:13:44 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/headerindex.php on line 29
+[01-Mar-2016 12:13:44 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[01-Mar-2016 12:13:44 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[01-Mar-2016 12:13:44 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[01-Mar-2016 12:13:44 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[01-Mar-2016 12:13:44 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[01-Mar-2016 12:13:44 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[01-Mar-2016 12:13:44 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[01-Mar-2016 12:13:44 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: viewcount in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 6
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 77
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 79
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 80
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 82
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 87
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 130
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 130
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 171
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 200
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 230
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 130
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 171
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 200
+[01-Mar-2016 12:13:50 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 230
+[01-Mar-2016 12:13:53 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[01-Mar-2016 12:13:58 Etc/GMT] PHP Notice:  Undefined index: sbid in /home/awstec13/public_html/AjarinDong/payvideo.php on line 10
+[01-Mar-2016 12:13:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 115
+[01-Mar-2016 12:13:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 116
+[01-Mar-2016 12:13:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 154
+[01-Mar-2016 12:13:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 155
+[01-Mar-2016 12:13:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 156
+[01-Mar-2016 12:13:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 157
+[01-Mar-2016 12:14:02 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[01-Mar-2016 12:14:02 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[01-Mar-2016 12:14:02 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[01-Mar-2016 12:14:02 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[01-Mar-2016 12:14:02 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[01-Mar-2016 12:14:02 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[01-Mar-2016 12:14:02 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[01-Mar-2016 12:14:02 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 05:22:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/includes/headerindex.php on line 54
+[02-Mar-2016 05:22:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/includes/headerindex.php on line 59
+[02-Mar-2016 05:22:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/includes/headerindex.php on line 62
+[02-Mar-2016 05:22:33 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 05:22:33 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 05:22:33 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 05:22:33 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 05:22:33 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 05:22:33 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 05:22:33 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 05:22:33 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/includes/header.php on line 41
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/includes/header.php on line 46
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/includes/header.php on line 49
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/studentprofile.php on line 100
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/studentprofile.php on line 105
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/studentprofile.php on line 106
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/studentprofile.php on line 107
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/studentprofile.php on line 175
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/studentprofile.php on line 188
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/studentprofile.php on line 202
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/studentprofile.php on line 202
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/studentprofile.php on line 202
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/studentprofile.php on line 212
+[02-Mar-2016 05:25:24 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/studentprofile.php on line 222
+[02-Mar-2016 05:25:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/includes/headerindex.php on line 54
+[02-Mar-2016 05:25:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/includes/headerindex.php on line 59
+[02-Mar-2016 05:25:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/includes/headerindex.php on line 62
+[02-Mar-2016 05:25:35 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 05:25:35 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 05:25:35 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 05:25:35 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 05:25:35 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 05:25:35 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 05:25:35 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 05:25:35 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 05:27:44 Etc/GMT] PHP Notice:  Undefined index: videoid in /home/awstec13/public_html/AjarinDong/login.php on line 4
+[02-Mar-2016 05:27:44 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 05:27:51 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/headerindex.php on line 29
+[02-Mar-2016 05:27:51 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 05:27:51 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 05:27:51 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 05:27:51 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 05:27:51 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 05:27:51 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 05:27:51 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 05:27:51 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: viewcount in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 6
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 77
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 79
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 80
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 82
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 87
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 130
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 130
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 171
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 200
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 230
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 130
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 171
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 200
+[02-Mar-2016 05:27:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 230
+[02-Mar-2016 05:28:29 Etc/GMT] PHP Notice:  Undefined index: videoid in /home/awstec13/public_html/AjarinDong/login.php on line 4
+[02-Mar-2016 05:28:29 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 05:30:04 Etc/GMT] PHP Notice:  Undefined index: videoid in /home/awstec13/public_html/AjarinDong/login.php on line 4
+[02-Mar-2016 05:30:47 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 05:30:47 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 05:30:47 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 05:30:47 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 05:30:57 Etc/GMT] PHP Notice:  Undefined index: videoid in /home/awstec13/public_html/AjarinDong/login.php on line 4
+[02-Mar-2016 05:30:57 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 05:31:00 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 05:31:11 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 05:31:22 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 05:32:17 Etc/GMT] PHP Notice:  Undefined index: userLastName in /home/awstec13/public_html/AjarinDong/signup.php on line 15
+[02-Mar-2016 05:32:17 Etc/GMT] PHP Notice:  Undefined variable: headers2 in /home/awstec13/public_html/AjarinDong/signup.php on line 17
+[02-Mar-2016 05:32:17 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 05:32:25 Etc/GMT] PHP Notice:  Undefined index: videoid in /home/awstec13/public_html/AjarinDong/login.php on line 4
+[02-Mar-2016 05:32:25 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 05:32:41 Etc/GMT] PHP Notice:  Undefined index: videoid in /home/awstec13/public_html/AjarinDong/login.php on line 4
+[02-Mar-2016 05:33:17 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 05:33:17 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 05:33:17 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 05:33:17 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 05:33:41 Etc/GMT] PHP Notice:  Undefined index: viewcount in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 6
+[02-Mar-2016 05:33:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 79
+[02-Mar-2016 05:33:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 80
+[02-Mar-2016 05:33:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:33:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:33:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 129
+[02-Mar-2016 05:33:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:33:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:33:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 145
+[02-Mar-2016 05:33:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 232
+[02-Mar-2016 05:33:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:33:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:34:05 Etc/GMT] PHP Notice:  Undefined variable: querystring in /home/awstec13/public_html/AjarinDong/payments.php on line 19
+[02-Mar-2016 05:34:42 Etc/GMT] PHP Notice:  Undefined variable: querystring in /home/awstec13/public_html/AjarinDong/payments.php on line 19
+[02-Mar-2016 05:35:00 Etc/GMT] PHP Notice:  Undefined index: viewcount in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 6
+[02-Mar-2016 05:35:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 79
+[02-Mar-2016 05:35:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 80
+[02-Mar-2016 05:35:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:35:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:35:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 129
+[02-Mar-2016 05:35:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:35:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:35:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 145
+[02-Mar-2016 05:35:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 232
+[02-Mar-2016 05:35:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:35:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:35:07 Etc/GMT] PHP Notice:  Undefined index: viewcount in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 6
+[02-Mar-2016 05:35:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 79
+[02-Mar-2016 05:35:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 80
+[02-Mar-2016 05:35:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:35:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:35:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 129
+[02-Mar-2016 05:35:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:35:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:35:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 145
+[02-Mar-2016 05:35:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 232
+[02-Mar-2016 05:35:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:35:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:36:23 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 05:36:23 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 05:36:23 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 05:36:23 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 05:36:29 Etc/GMT] PHP Notice:  Undefined index: viewcount in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 6
+[02-Mar-2016 05:36:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 79
+[02-Mar-2016 05:36:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 80
+[02-Mar-2016 05:36:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:36:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:36:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 129
+[02-Mar-2016 05:36:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:36:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:36:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 145
+[02-Mar-2016 05:36:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 232
+[02-Mar-2016 05:36:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:36:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:37:29 Etc/GMT] PHP Notice:  Undefined variable: querystring in /home/awstec13/public_html/AjarinDong/payments.php on line 19
+[02-Mar-2016 05:38:15 Etc/GMT] PHP Notice:  Undefined index: viewcount in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 6
+[02-Mar-2016 05:38:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 79
+[02-Mar-2016 05:38:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 80
+[02-Mar-2016 05:38:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:38:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:38:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 129
+[02-Mar-2016 05:38:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:38:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 05:38:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 145
+[02-Mar-2016 05:38:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 232
+[02-Mar-2016 05:38:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 05:38:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 06:50:00 Etc/GMT] PHP Notice:  Undefined index: videoid in /home/awstec13/public_html/AjarinDong/login.php on line 4
+[02-Mar-2016 06:50:00 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 06:50:02 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 07:19:27 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/headerindex.php on line 29
+[02-Mar-2016 07:19:27 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 07:19:27 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 07:19:27 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 07:19:27 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 07:19:27 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 07:19:27 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 07:19:27 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 07:19:27 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: viewcount in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 6
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 77
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 79
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 80
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 82
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 87
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 130
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 171
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 200
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 230
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 129
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 130
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 145
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 171
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 200
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 230
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 236
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 130
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 07:19:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 07:19:40 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 07:19:43 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 07:19:58 Etc/GMT] PHP Notice:  Undefined index: sbid in /home/awstec13/public_html/AjarinDong/payvideo.php on line 10
+[02-Mar-2016 07:19:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 115
+[02-Mar-2016 07:19:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 116
+[02-Mar-2016 07:19:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 154
+[02-Mar-2016 07:19:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 155
+[02-Mar-2016 07:19:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 156
+[02-Mar-2016 07:19:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 157
+[02-Mar-2016 07:20:12 Etc/GMT] PHP Notice:  Undefined index: sbid in /home/awstec13/public_html/AjarinDong/payvideo.php on line 10
+[02-Mar-2016 07:20:12 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 115
+[02-Mar-2016 07:20:12 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 116
+[02-Mar-2016 07:20:12 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 154
+[02-Mar-2016 07:20:12 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 155
+[02-Mar-2016 07:20:12 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 156
+[02-Mar-2016 07:20:12 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/payvideo.php on line 157
+[02-Mar-2016 07:21:45 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 07:21:45 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 07:21:45 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 07:21:45 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 07:21:45 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 07:21:45 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 07:21:45 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoName in /home/awstec13/public_html/AjarinDong/index.php on line 190
+[02-Mar-2016 07:21:45 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/index.php on line 196
+[02-Mar-2016 09:32:03 Etc/GMT] PHP Notice:  Undefined index: videoid in /home/awstec13/public_html/AjarinDong/login.php on line 4
+[02-Mar-2016 09:32:03 Etc/GMT] PHP Notice:  Undefined index: userid in /home/awstec13/public_html/AjarinDong/includes/header.php on line 21
+[02-Mar-2016 09:32:33 Etc/GMT] PHP Notice:  Undefined index: videoid in /home/awstec13/public_html/AjarinDong/login.php on line 4
+[02-Mar-2016 09:32:42 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 09:32:42 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 09:32:42 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 09:32:42 Etc/GMT] PHP Notice:  Undefined property: stdClass::$videoId in /home/awstec13/public_html/AjarinDong/course-index.php on line 162
+[02-Mar-2016 09:32:50 Etc/GMT] PHP Notice:  Undefined index: viewcount in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 6
+[02-Mar-2016 09:32:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 79
+[02-Mar-2016 09:32:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 80
+[02-Mar-2016 09:32:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 09:32:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 09:32:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 129
+[02-Mar-2016 09:32:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 09:32:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 09:32:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 145
+[02-Mar-2016 09:32:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 232
+[02-Mar-2016 09:32:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 09:32:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 09:34:34 Etc/GMT] PHP Notice:  Undefined index: viewcount in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 6
+[02-Mar-2016 09:34:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 79
+[02-Mar-2016 09:34:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 80
+[02-Mar-2016 09:34:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 09:34:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 09:34:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 129
+[02-Mar-2016 09:34:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 09:34:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 09:34:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 145
+[02-Mar-2016 09:34:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 232
+[02-Mar-2016 09:34:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 09:34:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 09:34:49 Etc/GMT] PHP Notice:  Undefined index: viewcount in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 6
+[02-Mar-2016 09:34:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 79
+[02-Mar-2016 09:34:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 80
+[02-Mar-2016 09:34:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 09:34:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 09:34:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 129
+[02-Mar-2016 09:34:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 09:34:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
+[02-Mar-2016 09:34:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 145
+[02-Mar-2016 09:34:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 232
+[02-Mar-2016 09:34:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 132
+[02-Mar-2016 09:34:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/awstec13/public_html/AjarinDong/MATH1005.php on line 133
