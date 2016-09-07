@@ -41,23 +41,57 @@
 
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand">Cover</h3>
+              <h3 class="masthead-brand">AjarinDongBro</h3>
               <nav>
                 <ul class="nav masthead-nav">
                   <li class="active"><a href="#">Home</a></li>
-                  <li><a href="#">Features</a></li>
-                  <li><a href="#">Contact</a></li>
+                  <li><a href="#">About Us</a></li>
+                  <li><a data-toggle="modal" data-target="#myModal">Log-in</a></li>
                 </ul>
               </nav>
             </div>
           </div>
+          
+		  <div class="modal fade" id="myModal" role="dialog">
+		    <div class="modal-dialog">
+		    
+		      <!-- Modal content-->
+		      <div class="modal-content">
+		        <div class="modal-header">
+		          <button type="button" class="close" data-dismiss="modal">&times;</button>
+		          <h4 class="modal-title" style="color:black;">Log-In</h4>
+		        </div>
+		        <div class="modal-body">
+		          <form>
+					  <div class="form-group">
+					    <label for="email" style="color:black;">Email Address:</label>
+					    <input type="email" class="form-control" id="email">
+					  </div>
+					  <div class="form-group">
+					    <label for="pwd" style="color:black;">Password:</label>
+					    <input type="password" class="form-control" id="pwd">
+					  </div>
+					  <div class="checkbox">
+					    <label style="color:black;"><input type="checkbox"> Remember me</label>
+					  </div>
+					  <button type="submit" class="btn btn-info btn-lg">Submit</button>
+				</form>
+		        </div>
+		        <div class="modal-footer">
+		          <button type="button" class="btn btn-info btn-lg" data-dismiss="modal">Close</button>
+		        </div>
+		      </div>
+		      
+		    </div>
+		  </div>
 
           <div class="inner cover">
-            <h1 class="cover-heading">Cover your page.</h1>
+            <h1 class="cover-heading">Ajarin Dong Bro</h1>
             <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
             <p class="lead">
               <a href="#" class="btn btn-lg btn-default">Learn more</a>
             </p>
+	          
           </div>
 
           <div class="mastfoot">
