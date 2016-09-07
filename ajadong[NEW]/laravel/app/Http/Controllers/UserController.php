@@ -51,7 +51,6 @@ class UserController extends Controller
             return response()->json(["message"=>"Not Found"],404);
         }
 
-        $model = new UserModel;
     	$model->firstName = $data['first_name'];
     	$model->lastName = $data['last_name'];
     	$model->dateOfBirth = $data['date_of_birth'];

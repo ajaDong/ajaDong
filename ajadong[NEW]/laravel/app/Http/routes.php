@@ -26,3 +26,9 @@ Route::post('/course',"CourseController@create");
 Route::get('/course/{id}',"CourseController@getSingle");
 Route::post('/course/{id}',"CourseController@modify");
 Route::delete('/course/{id}',"CourseController@delete");
+
+Route::get('/chapter/{course_id}',"ChapterController@getAll");
+Route::post('/chapter',"ChapterController@create");
+Route::get('/chapter/{id}',"ChapterController@getSingle");
+Route::post('/chapter/{id}',"ChapterController@modify");
+Route::delete('/chapter/{id}',"ChapterController@delete");

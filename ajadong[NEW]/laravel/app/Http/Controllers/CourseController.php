@@ -52,7 +52,6 @@ class CourseController extends Controller
             return response()->json(["message"=>"Not Found"],404);
         }
 
-        $model = new CourseModel;
     	$model->courseName = $data['course_name'];
     	$model->courseCode = $data['course_code'];
     	$model->courseStatus = $data['course_status'];
