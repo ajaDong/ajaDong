@@ -10,7 +10,7 @@ class ChapterController extends Controller
 {
     // Get all item for Chapter Table
     public function getAll($course_id){
-    	$todos= ChapterModel::where('course_id',$course_id)->get();
+    	$todos= ChapterModel::where('courseID',$course_id)->get();
     	if(count($todos)>0){
             return $todos;
         }else{
